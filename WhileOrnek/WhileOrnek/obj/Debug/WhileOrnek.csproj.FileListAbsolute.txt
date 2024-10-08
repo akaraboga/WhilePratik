@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.exe.config
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\bin\Debug\WhileOrnek.pdb
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\WhileOrnek\WhileOrnek\obj\Debug\WhileOrnek.pdb
